@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "195396782763",
+    "project_id": "billapp-765f3",
+    "storage_bucket": "billapp-765f3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:195396782763:android:99a5fd91a2b99d414ec5ee",
+        "android_client_info": {
+          "package_name": "com.example.biil_podu_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "195396782763-gkb4rsq664ptsabunugofitqo8h1ar9f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlJVTF4_IfW2zky20K5gBrA8EXdGYdEFE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "195396782763-gkb4rsq664ptsabunugofitqo8h1ar9f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
