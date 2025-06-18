@@ -1,16 +1,21 @@
-# biil_podu_app
+BillPoduApp
+BillPoduApp is a prototype invoice billing and management system designed to simplify billing processes for businesses. Built using Flutter and Firebase, the app provides a seamless interface for creating, storing, and managing invoices securely in the cloud.
 
-A new Flutter project.
+🚀 Key Features
+Create and manage invoices with user-friendly forms
 
-## Getting Started
+Store invoice data securely using Firebase Realtime Database / Firestore
 
-This project is a starting point for a Flutter application.
+Real-time updates and synchronization across devices
 
-A few resources to get you started if this is your first Flutter project:
+Intuitive, responsive UI designed with Flutter
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Basic authentication and data privacy handling
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+🛠 Tech Stack
+Frontend: Flutter (Dart)
+
+Backend: Firebase (Authentication, Firestore/Realtime Database)
+
+📌 Status
+This is an early-stage prototype created as part of an internship project. Future enhancements may include analytics, PDF invoice generation, payment tracking, and more.
